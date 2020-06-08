@@ -21,6 +21,7 @@ def output_array(array)
   #  i += 1
   #end
     puts array
+    #it also passes withouth a loop
 end
 
 
