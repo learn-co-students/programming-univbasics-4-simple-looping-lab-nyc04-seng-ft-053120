@@ -21,8 +21,8 @@ def output_array(array)
   #  i += 1
   #end
     puts array
-  end
 end
+
 
 def return_string_array(array)
   i = 0
